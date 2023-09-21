@@ -1,0 +1,19 @@
+<!-- Loop over each object in the projects array -->
+{{#each projects as |project| }}
+<div class="row mb-3 project">
+  <div class="col-md-9">
+    <h2>
+      🖥️
+      <a href="/project/{{project.id}}">{{project.name}}</a>
+    </h2>
+    {{#if logged_in}}
+      <p>logged_in: {{logged_in}}</p>
+      <p>description: {{description}}</p>
+    {{/if}}
+    aa
+    <p>Created by {{project.user.name}} on {{format_date project.date_created}}</p>
+
+  </div>
+</div>
+
+{{/each}}

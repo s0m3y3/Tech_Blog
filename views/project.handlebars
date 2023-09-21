@@ -1,0 +1,12 @@
+<div class="text-center">
+  <h2>{{name}}</h2>
+  <p>
+    {{#if logged_in}}
+      {{description}}
+    {{else}}
+      <span style="color: red; font-weight: bold;">Please <a href="/login" style="color: inherit; text-decoration: underline;">log in</a> to read the article.</span>
+    {{/if}}
+  </p>
+  
+  <p>Created by {{user.name}} on {{format_date date_created}}</p>
+</div>
