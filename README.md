@@ -5,8 +5,9 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Credits](#credits)
 - [License](#license)
-- [Contact](#questions)
+- [Questions](#questions)
 
 ## Description
 This app is designed for Technology Blogging. 
@@ -36,6 +37,12 @@ You will need to log in to post your blog.
 
 (The rest, "in progress"...)
 
+## Credits
+Github user: s0m3y3
+
+Github Repo: [Click here](https://github.com/s0m3y3/Tech_Blog
+
+
 ## License
   MIT License
 
@@ -46,7 +53,5 @@ You will need to log in to post your blog.
     THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
-## Contact
-Github user: s0m3y3
-
-Github Repo: [Link](https://github.com/s0m3y3/Tech_Blog
+## Questions
+Email: s0m3y3@gmail.com
