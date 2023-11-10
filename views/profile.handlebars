@@ -3,21 +3,7 @@
 </div>
 
 <div class="row mt-4">
-    <aside class="col-md-3">
-    <h2>Articles: </h2>
-  <div class="text-center">
 
-    {{#each projects as |project| }}
-      <div class="row mb-3 project">
-        <div class="col-md-9">
-          <h2> <a href="/project/{{project.id}}">{{project.name}}</a>
-              <p>Created by {{project.user.name}} on {{format_date project.date_created}}</p>
-          </h2>
-    {{/each}}
-    
-
-  </div>
-  </aside>
 
   <div class="col-md-6">
     
