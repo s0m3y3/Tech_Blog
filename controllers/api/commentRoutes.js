@@ -2,7 +2,7 @@ const router = require("express").Router();
 const { Comment } = require("../../models");
 const withAuth = require("../../utils/auth");
 
-//api/comment
+//api/comments
 router.get("/", (req, res) => {
     Comment.findAll({})
       .then((dbCommentData) => res.json(dbCommentData))
@@ -10,6 +10,6 @@ router.get("/", (req, res) => {
         console.log(err);
         res.status(500).json(err);
       });
-  });
+});
   
 module.exports = router;

@@ -9,7 +9,8 @@
   </p>
   
   <p>Created by {{user.name}} on {{format_date date_created}} 
-    <a>comments</a>
+      {{#if logged_in}}  <a>comments</a>
+          {{/if}}
   </p>
   
 </div>

@@ -1,12 +1,12 @@
 [
     {
       "user_id":"2",
-      " blog_id":"1",
+      "blog_id":1,
       "comment_text":"I do not understand, Please help!"
     },
     {
-        "user_id":"1",
-        " blog_id":"2",
-        "comment_text":"This is great stuff!"
-      }
+      "user_id":"1",
+      "blog_id":2,
+      "comment_text":"This is great stuff!"
+    }
 ]

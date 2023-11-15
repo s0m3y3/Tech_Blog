@@ -13,6 +13,16 @@
     "name": "mike",
     "email": "mike@aol.com",
     "password": "password12345"
+  },
+  {
+    "name": "luara",
+    "email": "luara@aol.com",
+    "password": "password12345"
+  },
+  {
+    "name": "chickendude",
+    "email": "chickendude@aol.com",
+    "password": "password12345"
   }
 ]
  
