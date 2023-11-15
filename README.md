@@ -1,13 +1,13 @@
 # Techblog
+This is a simple tech blog platform where users can share articles, tutorials, and discussions related to Tech.
 
 ## Table of Contents (Optional)
 
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
 - [License](#license)
-- [Questions](#questions)
+- [Contact](#contact)
 
 ## Description
 This app is designed for Technology Blogging. 
@@ -35,12 +35,6 @@ You will need to log in to post your blog.
 
 ![](./public/image/login.png)
 
-(The rest, "in progress"...)
-
-## Credits
-Github user: s0m3y3
-
-Github Repo: [Click here](https://github.com/s0m3y3/Tech_Blog
 
 
 ## License
@@ -53,5 +47,7 @@ Github Repo: [Click here](https://github.com/s0m3y3/Tech_Blog
     THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
-## Questions
-Email: s0m3y3@gmail.com
+## Contact
+Github Repo: [Link](https://github.com/s0m3y3/Tech_Blog
+Deployed Website: [Link]()
+
